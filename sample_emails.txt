@@ -1,0 +1,126 @@
+EMAIL 1:
+
+Subject: Urgent: Your Account Will Be Locked
+
+Dear User,
+We noticed suspicious activity. Verify now:
+http://secure-account-verify[.]com
+
+EMAIL 2:
+
+Subject: Congratulations! You Won ₹10,000
+
+Click here to claim reward:
+http://free-money-offer[.]xyz
+
+EMAIL 3:
+
+Subject: Update Your Bank Details
+
+Dear Customer,
+Update your bank info immediately:
+http://bank-secure-login[.]net
+
+EMAIL 4:
+
+Subject: ⚠️ SBI Alert: Unusual Login Attempt Detected
+
+Dear Customer,
+
+We detected a login attempt from a new device.
+If this was not you, please secure your account immediately.
+
+Verify your account:
+http://sbi-secure-verification[.]com
+
+Failure to act may result in account suspension.
+
+Regards,
+State Bank of India Security Team
+
+EMAIL 5:
+
+Subject: 🎉 Congratulations! You Are Selected for Internship
+
+Dear Srinidhi,
+
+We are pleased to inform you that you have been shortlisted for our Cyber Security Internship.
+
+To confirm your seat, complete verification within 12 hours:
+http://internship-confirmation[.]org
+
+Limited slots available.
+
+HR Team
+
+EMAIL 6:
+
+Subject: Problem with Your Amazon Order #45821
+
+Dear Customer,
+
+Your recent order could not be processed due to payment failure.
+
+Update your payment details here:
+http://amazon-payment-update[.]net
+
+If no action is taken, your order will be cancelled.
+
+Amazon Support
+
+EMAIL 7:
+
+Subject: Important: College Portal Password Expiry
+
+Dear Student,
+
+Your college portal password will expire today.
+Please reset your password immediately to avoid access loss.
+
+Reset here:
+http://college-portal-reset[.]edu-login.com
+
+Admin Office
+
+EMAIL 8:
+
+Subject: OTP Verification Required
+
+Dear User,
+
+Your OTP is pending verification.
+Please enter your OTP to continue:
+
+http://otp-verification-secure[.]xyz
+
+Do not ignore this message.
+
+Security Team
+
+EMAIL 9:
+
+Subject: Google Security Alert: Account Compromised
+
+Dear User,
+
+Your Google account has been compromised.
+We have temporarily restricted access.
+
+Recover your account immediately:
+http://google-account-recovery[.]support
+
+Google Security Team
+
+EMAIL 10:
+
+Subject: You Won ₹5,00,000 in Lucky Draw!
+
+Congratulations!
+
+Your email has been selected as a winner in our international lottery.
+
+Claim your prize here:
+http://lucky-draw-winner[.]claim
+
+Hurry! Limited time offer.
+
